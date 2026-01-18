@@ -2,4 +2,6 @@ flask
 requests
 pandas
 groq
+gunicorn
 python-dotenv
+random
